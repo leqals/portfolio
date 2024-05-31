@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # portfolio
-This a git pipeline to deploy my vite-hostinger portfolio website as practice for learn devOps CI/CO. Feel free to copy the code and design. I still be best at this regardless. 
+This a git pipeline to deploy my vite-hostinger portfolio website as practice for learn devOps CI/CO. Feel free to copy the code and design. I'll still be best at this regardless. 
 >>>>>>> origin/main
